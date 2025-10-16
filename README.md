@@ -707,8 +707,8 @@ git push origin feature/new-feature
 ### 📧 联系我们
 
 - **GitHub Issues**: [问题反馈](https://github.com/novatra/k8s-auto/issues)
-- **Email**: support@novatra.com
-- **QQ群**: 123456789
+- **Email**: novatra.ai@novatra.cn
+- **QQ群**: 1061184149
 
 ---
 
