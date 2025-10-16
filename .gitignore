@@ -1,0 +1,58 @@
+# 临时文件
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Kubernetes 临时文件
+kubeadm-config.yaml
+*.yaml.backup
+calico.yaml
+flannel.yaml
+ingress_nginx.yaml
+metrics_server.yaml
+
+# 证书文件
+*.crt
+*.key
+*.csr
+*.pem
+
+# Helm charts
+charts/
+*.tgz
+
+# 备份文件
+backup/
+*.backup
+
+# 解压目录
+etcd-*/
+helm-*/
+kube-prometheus-*/
+
+# 编译产物
+*.o
+*.so
+*.dylib
+*.exe
+
+# IDE文件
+.vscode/
+.idea/
+*.sublime-*
+
+# 日志文件
+logs/
+*.log
+
+# 运行时文件
+pids/
+*.pid
+*.seed
+*.pid.lock
