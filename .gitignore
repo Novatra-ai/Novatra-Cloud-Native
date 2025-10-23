@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Kubernetes
+kubeadm-config.yaml
+calico.yaml
+ingress_nginx.yaml
+metrics_server.yaml
+kubernetes_dashboard.yml
+kubernetes_dashboard_*.yml
+
+# Helm
+helm-*.tar.gz
+helm-*-linux-*/
+
+# ETCD
+etcd-*.tar.gz
+etcd-*-linux-*/
+etcd-ssl.cnf
+etcd-*.key
+etcd-*.crt
+etcd-*.csr
+
+# Prometheus
+kube-prometheus-*.tar.gz
+kube-prometheus-*/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+

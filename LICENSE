@@ -1,0 +1,49 @@
+Copyright 2025 Novatra Team
+
+Licensed under the Apache License, Version 2.0 with Additional Terms (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+================================================================================
+
+ADDITIONAL TERMS AND CONDITIONS
+
+1. Contribution Rights
+   You may submit contributions (code, documentation, bug reports, etc.) to 
+   this project. By submitting contributions, you grant Novatra Team a 
+   perpetual, worldwide, royalty-free license to use, modify, and distribute 
+   your contributions under the terms of this License.
+
+2. Commercial Use Restrictions
+   Commercial use of this software requires explicit written permission from 
+   Novatra Team. Contact novatra.ai@novatra.cn for commercial licensing.
+
+3. Attribution Requirements
+   You must retain all copyright notices and attribution information in any 
+   copies or substantial portions of the Software.
+
+4. Warranty Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. Limitation of Liability
+   IN NO EVENT SHALL NOVATRA TEAM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+================================================================================
+
+For Chinese version, see: LICENSE_CN.md
+
+Contact Information:
+- Email: novatra.ai@novatra.cn
+- GitHub Issues: https://github.com/Novatra-ai/Novatra-Cloud-Native/issues
+- QQ Group: 1061184149
